@@ -1,7 +1,7 @@
 {
   "name": "api-design-node",
   "version": "1.0.0",
-  "description": "Hello from John Mitchell v9",
+  "description": "Hello from John Mitchell ",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
