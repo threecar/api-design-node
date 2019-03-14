@@ -1,6 +1,6 @@
 ---
 applications:
 - name: api-design-node
-  command: node my-app.js
+  buildpack: https://github.com/cloudfoundry/nodejs-buildpack
   memory: 512M
   instances: 2
