@@ -1,7 +1,7 @@
 {
-  "name": "node-api",
+  "name": "api-design-node",
   "version": "1.0.0",
-  "description": "",
+  "description": "Hello from John Mitchell v9",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -25,5 +25,13 @@
   "devDependencies": {
     "chai": "^3.2.0",
     "supertest": "^1.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/vadella-learn/api-design-node.git"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/vadella-learn/api-design-node/issues"
+  },
+  "homepage": "https://gitlab.com/vadella-learn/api-design-node#readme"
 }
