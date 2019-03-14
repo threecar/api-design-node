@@ -1,0 +1,5 @@
+---
+applications:
+- name: api-design-node
+  memory: 512M
+  instances: 2
